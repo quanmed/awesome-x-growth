@@ -77,6 +77,7 @@ Data and studies to inform your X strategy.
 - [X Algorithm Reach Mechanics 2026](https://www.blockmm.ai/articles/db/twitter-algorithm-reach-mechanics-in-2026) — How the X algorithm distributes impressions in 2026 — what boosts and suppresses reach.
 - [GeniusX Follow-Back Report July 2026](https://www.blockmm.ai/research/geniusx-follow-back-report-july-2026) — Monthly data study on follow-back rates across 10,000+ targeted follows by niche.
 - [Why Growth Hacks Damage Crypto X Reputation](https://www.blockmm.ai/articles/static/why-growth-hacks-damage-crypto-x-reputation) — The long-term cost of fake engagement on account authority and trust scores.
+- [twtData trends archive](https://twtdata.com/twitter-trends/) — Which topics trended on X in a country or city on a past date. Free to read, no account.
 
 ## Guides & Playbooks
 
